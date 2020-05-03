@@ -1,0 +1,18 @@
+Accl:      9.851     0.784     0.950     9.927
+
+Compass:    177.6     -5.5     85.4
+Rotation:   -0.46374   -0.47418   -0.55696
+Magnetic:    -42.588    -2.598    14.910    45.197
+
+Rotation Matrix:
+  -0.07011    0.99663    0.04250 
+  -0.11703   -0.05053    0.99184 
+   0.99065    0.06457    0.12018 
+longitude = -122.437439
+lattitude = 37.790374
+altitude = 23.91
+accuracy = 8.00
+
+accuAcc: 3    accuMag: 3    accuRot: 3
+
+aveFrm = 10    sensorDelay = 1

@@ -1,0 +1,67 @@
+{
+  "intersections": [
+    {
+      "name": "Fillmore_Washington_SF",
+      "lat": 37.791613,
+      "long": -122.434428,
+	"x": -1,
+	"y": -1
+    },
+    {
+      "name": "Steiner_Washington_SF",
+      "lat": 37.791409,
+      "long": -122.436057,
+	"x": 160,
+	"y": 140
+    },
+    {
+      "name": "Clay_Pierce_SF",
+      "lat": 37.7903,
+      "long": -122.437522,
+	"x": -1,
+	"y": -1
+    },
+    {
+      "name": "Clay_Scott_SF",
+      "lat": 37.790093,
+      "long": -122.439162,
+	"x": -1,
+	"y": -1
+    },
+    {
+      "name": "Fillmore_Pine_SF",
+      "lat": 37.787974,
+      "long": -122.433683,
+	"x": -1,
+	"y": -1
+    },
+	{
+      "name": "Washington_Webster_SF",
+      "lat": 37.791823,
+      "long": -122.432793,
+	"x": 146,
+	"y": 115
+    }, 
+	{
+      "name": "Clay_Webster_SF",
+      "lat": 37.790942,
+      "long": -122.432606,
+	"x": 122,
+	"y": 115
+    }, 
+	{
+      "name": "Clay_Fillmore_SF",
+      "lat": 37.790724,
+      "long": -122.434243,
+	"x": 125,
+	"y": 113
+    },
+	{
+      "name": "California_Fillmore_SF",
+      "lat": 37.788935,
+      "long": -122.433875,
+	"x": -1,
+	"y": -1
+    }
+  ]
+}
